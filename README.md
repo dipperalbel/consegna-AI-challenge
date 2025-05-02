@@ -9,5 +9,5 @@
   - `visualization.py` — script principale per la generazione della visualizzazione.
   - `output.png` - output come immagine generato dallo script
   - `receipt_challenge_image.jpg` — immagine della ricevuta da analizzare.
-  - `receipt_challenge_response.json` — output del motore OCR da visualizzare.
+  - `receipt_challenge_response.json` — file json che contiene i dati estratti dall’immagine.
   - `README.md` — file testuale contenente spiegazioni sulle dipendenze, le scelte progettuali e le modalità di utilizzo.
